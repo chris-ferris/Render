@@ -54,6 +54,7 @@
 		ED0BDB68280287C1003A80B3 = {
 			isa = PBXGroup;
 			children = (
+				ED7214B7283459C800A0C5A2 /* README.md */,
 				ED0BDB73280287C1003A80B3 /* Render */,
 				ED0BDB72280287C1003A80B3 /* Products */,
 			);
@@ -70,7 +71,6 @@
 		ED0BDB73280287C1003A80B3 /* Render */ = {
 			isa = PBXGroup;
 			children = (
-				ED7214B7283459C800A0C5A2 /* README.md */,
 				ED0BDB74280287C1003A80B3 /* AppDelegate.swift */,
 				ED0BDB76280287C1003A80B3 /* ContentView.swift */,
 				EDE6B73B2803F4B1005A822E /* MetalViewRepresentable.swift */,
